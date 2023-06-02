@@ -1,1 +1,3 @@
-
+*.go linguist-language=Go
+*.css linguist-language=Scala
+*.html linguist-language=Scala
